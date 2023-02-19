@@ -1,6 +1,6 @@
 # Uno
 
-Bienvenue sur le dépôt Github de mon jeu Uno en ligne de commande !
+Ce jeu Uno en ligne de commande a été développé en langage C. Il utilise les concepts de base du langage C, tels que les tableaux, les structures, les pointeurs, les boucles et les conditions pour simuler le jeu. Le code est conçu de manière modulaire pour une meilleure lisibilité et une maintenance plus facile.
 
 ## Comment jouer
 Ce jeu Uno vous permet de jouer à deux joueurs ou jusqu'à quatre joueurs. Le jeu suit les règles classiques du Uno.
